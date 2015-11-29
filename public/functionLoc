@@ -1,0 +1,2 @@
+javascripts/controllers/landingController.js:30:	  $scope.setTheme = function() {
+views/v1/landing.html:20:      	<button ng-click="setTheme()">SET THEME!</button>
